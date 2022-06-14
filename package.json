@@ -4,7 +4,7 @@
     "publisher": "functionizable",
     "icon": "images/potet.png",
     "description": "pleasant on the eyes theme",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "engines": {
         "vscode": "^1.68.0"
     },
@@ -19,5 +19,8 @@
                 "path": "./themes/Pleasant On The Eyes-color-theme.json"
             }
         ]
+    },
+    "repository": {
+        "url": "https://github.com/wadafacc/POTET"
     }
 }
