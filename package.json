@@ -1,0 +1,23 @@
+{
+    "name": "potet",
+    "displayName": "POTET",
+    "publisher": "functionizable",
+    "icon": "images/potet.png",
+    "description": "pleasant on the eyes theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.68.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Pleasant On The Eyes",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Pleasant On The Eyes-color-theme.json"
+            }
+        ]
+    }
+}
